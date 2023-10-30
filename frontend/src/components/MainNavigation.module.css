@@ -20,3 +20,12 @@
 .list a.active {
   color: var(--color-primary-800);
 }
+
+.list button {
+  font: inherit;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: var(--color-gray-500);
+  color: var(--color-gray-100);
+  border: none;
+}
